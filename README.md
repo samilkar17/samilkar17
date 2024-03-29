@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=30&center=true&vCenter=true&width=500&height=70&pause=1000&color=1659FF&random=false&width=435&lines=Hi+There!%F0%9F%91%8B;I'm+Sebastian+Murillo+Hurtado" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=30&center=true&vCenter=true&width=700&height=70&pause=1000&color=25B9FF&random=false&width=535&lines=Hi+There!%F0%9F%91%8B;I'm+Sebastian+Murillo+Hurtado+%F0%9F%98%8A" alt="Typing SVG" />
 </h1>
 <h3 align="center">Multimedia Engineer and Artificial Intelligence Specialist</h3>
 
